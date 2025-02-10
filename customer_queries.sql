@@ -15,7 +15,7 @@ SELECT custid FROM dataofcustomer;
 
 
 -- Insert data into the dataofcustomer table
-INSERT INTO dataofcustomer VAaccountLUES('c33339','paresh','nilesh','meh','mumbai',26,'3930293849','sales','1980-09-02');
+INSERT INTO dataofcustomer VALUES('c33339','paresh','nilesh','meh','mumbai',26,'3930293849','sales','1980-09-02');
 INSERT INTO dataofcustomer VALUES('c78678','arjav',NULL,'shah','kalkota',40,'3250293849','electricer','1989-01-06');
 INSERT INTO dataofcustomer VALUES('c06645','tomy',NULL,'mehta','mumbai',34,'7850293839','worker','2001-08-04');
 INSERT INTO dataofcustomer VALUES('c43189','nelash','george','albert','delhi',21,'3950293349','student','2004-04-09');
